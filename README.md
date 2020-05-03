@@ -18,5 +18,5 @@ AWS json configuration that travis uses also there as an example.
 
 # References
 
-Check out this really cool course on docker and kubernetes from udemy:
+Check out this really cool course on docker and kubernetes from udemy given by stephengrider:
 https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
